@@ -9,3 +9,7 @@ Borrowed from Three20 / DTFoundation, inspired By [Limboy](http://blog.leezhong.
 [FrameAccessor](https://github.com/AlexDenisov/FrameAccessor)
 
 [UIView+frameAdjust](https://gist.github.com/tangqiaoboy/8131327)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/demon1105/uiview-utils/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
